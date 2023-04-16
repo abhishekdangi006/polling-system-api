@@ -31,7 +31,7 @@
     </ul>
 
 <h2>Run the code</h2> <br>
-    $ git clone https://github.com/shubhamkr83/Polling-Api-System <br>
+    $ git clone https://github.com/abhishekdangi006/polling-system-api <br>
     $ cd Polling-Api-System <br>
     $ npm install <br>
     $ npm start <br>
